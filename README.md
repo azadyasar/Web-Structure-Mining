@@ -10,5 +10,9 @@ jars.
 
 ## Mechanism
 
-Bare-bones version of Breadth-First Search Crawler is implemented for crawling the web. You can assign seed urls to crawl from. You can specify a .txt file
-containing
+Bare-bones version of Breadth-First Search Crawler is implemented for crawling the web. 
+### You can 
+    assign seed urls to crawl from.
+    specify a .txt file containing keywords to filter which URLs to put in Frontier.
+    specify number of threads that the crawlers will be assigned and number of iterations for crawling.
+    
