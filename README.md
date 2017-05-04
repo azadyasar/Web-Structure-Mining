@@ -5,7 +5,7 @@ and <a href="http://www.math.cornell.edu/~mec/Winter2009/RalucaRemus/Lecture4/le
 
 ## Dependencies 
 
-The project depends on JSoup and <a href="https://jsoup.org">JSoup</a> and <a href="http://graphstream-project.org">GraphStream</a>
+The project depends on <a href="https://jsoup.org">JSoup</a> and <a href="http://graphstream-project.org">GraphStream</a>
 jars.
 
 ## Mechanism
