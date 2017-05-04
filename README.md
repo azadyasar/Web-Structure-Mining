@@ -15,4 +15,10 @@ Bare-bones version of Breadth-First Search Crawler is implemented for crawling t
     assign seed urls to crawl from.
     specify a .txt file containing keywords to filter which URLs to put in Frontier.
     specify number of threads that the crawlers will be assigned and number of iterations for crawling.
+The graph of (incoming, outgoing links) the Web is stored as HashMap<WebURL, HashMap<WebUrls, Integer>> internally (in a concurrent fashion.). PageRank and HITS algorihtms can be applied on this graphs. Graphs can be exported and imported later.
+You can visualize the tiny part of the Web that crawlers found out by specifying the number of nodes to be drawn based on their ranks. 
+
+## GUI
+
+[![solarized dualmode](https://github.com/azadyasar/Web-Structure-Mining/tree/master/res/main_1.png)]
     
