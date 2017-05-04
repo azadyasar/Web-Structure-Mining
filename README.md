@@ -20,5 +20,5 @@ You can visualize the tiny part of the Web that crawlers found out by specifying
 
 ## GUI
 
-[![solarized dualmode](https://github.com/azadyasar/Web-Structure-Mining/tree/master/res/main_1.png)]
+![Alt text](https://github.com/azadyasar/Web-Structure-Mining/tree/master/res/main_1.png?raw=true "Main Screen")
     
