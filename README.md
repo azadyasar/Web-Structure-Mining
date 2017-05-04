@@ -19,7 +19,11 @@ The graph of (incoming, outgoing links) the Web is stored as HashMap<WebURL, Has
 You can visualize the tiny part of the Web that crawlers found out by specifying the number of nodes to be drawn based on their ranks. 
 
 ## GUI
+### Main Screen
+<img src="https://github.com/azadyasar/Web-Structure-Mining/blob/master/res/main_1.png" alt="https://github.com/azadyasar/Web-Structure-Mining/blob/master/res/main_1.png">
 
-<img src="https://github.com/Sonihal/moveclient/blob/master/group_name_and_id.JPG" alt="https://github.com/Sonihal/moveclient/blob/master/group_name_and_id.JPG">
+### Graph
+
+<img src="https://github.com/azadyasar/Web-Structure-Mining/blob/master/res/graph_1.png" alt="https://github.com/azadyasar/Web-Structure-Mining/blob/master/res/graph_1.png">
 
     
