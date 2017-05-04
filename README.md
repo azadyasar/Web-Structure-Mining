@@ -20,5 +20,6 @@ You can visualize the tiny part of the Web that crawlers found out by specifying
 
 ## GUI
 
-![Alt text](https://github.com/azadyasar/Web-Structure-Mining/tree/master/res/main_1.png?raw=true "Main Screen")
+<img src="https://github.com/Sonihal/moveclient/blob/master/group_name_and_id.JPG" alt="https://github.com/Sonihal/moveclient/blob/master/group_name_and_id.JPG">
+
     
